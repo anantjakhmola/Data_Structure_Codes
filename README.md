@@ -6,8 +6,8 @@
 [Data Structure Mind Map]:https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link
 
 
-## https://www.youtube.com/c/codewhoop/
-## https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
+## [CodeWhoop Youtube Channel]-> https://www.youtube.com/c/codewhoop/
+## [Abdul Bari youtube Channel] -> https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 ## Geekforgeeks
 ## Tutorial Point
 ## [Master the Coding Interview: Data Structures + Algorithm] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
