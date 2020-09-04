@@ -2,7 +2,7 @@
 
 ## :memo: Some Youtube Channels and Resources to get Started.
 
-## [:link:][Data Structure Mind Map]
+## | Click on the Link to get the mind map | [:link:][Data Structure Mind Map] |
 [Data Structure Mind Map]:https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link
 
 
