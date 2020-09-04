@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.myphp": "php",
+        "queue": "cpp"
+    }
+}
