@@ -8,6 +8,7 @@
 
 ## [CodeWhoop Youtube Channel]-> https://www.youtube.com/c/codewhoop/
 ## [Abdul Bari youtube Channel] -> https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
+## [My code School youtube Channel] -> https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 ## Geekforgeeks
 ## Tutorial Point
 ## [Master the Coding Interview: Data Structures + Algorithm] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
