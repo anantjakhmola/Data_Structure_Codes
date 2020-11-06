@@ -16,7 +16,7 @@ Technologies included:
 ### Youtube Channels and useful websites to get Started.
 * [CodeWhoop Youtube Channel](https://www.youtube.com/c/codewhoop/)
 * [Abdul Bari youtube Channel](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-* [Pepcoding youtube channel - Data Structure concpets](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw)
+* [Pepcoding youtube channel - Data Structure concepts](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw)
 * [My code School youtube Channel](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 * [Geekforgeeks](geeksforgeeks.org)
 * [Tutorial Point](https://www.tutorialspoint.com/index.htm)
